@@ -15,7 +15,10 @@ These are the follwing libraries has to be used in this code:
 ```sh
 python face.py "path of the image"
 ```
-## Output:
-
+## Results:
+### Input image:
+![](/images/image1.png?raw=True)
+### Result image:
+![](/images/capture.png?raw=True)
 
 
