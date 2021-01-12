@@ -17,8 +17,8 @@ python face.py "path of the image"
 ```
 ## Results:
 ### Input image:
-![](/images/image1.png)
+![](./images/image1.png)
 ### Result image:
-![](/images/capture.png)
+![](./images/capture.png)
 
 
